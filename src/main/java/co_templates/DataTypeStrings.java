@@ -1,3 +1,4 @@
+package co_templates;
 public class DataTypeStrings {
     public static void main(String[] args){
         String strFirst = "Hello !";

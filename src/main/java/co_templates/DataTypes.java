@@ -1,3 +1,4 @@
+package co_templates;
 public class DataTypes {
     public static void main(String[] args){
         // Numbers

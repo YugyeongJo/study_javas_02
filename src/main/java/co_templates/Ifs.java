@@ -1,3 +1,4 @@
+package co_templates;
 public class Ifs {
     public static void main(String[] args){
         /* if (condition) {

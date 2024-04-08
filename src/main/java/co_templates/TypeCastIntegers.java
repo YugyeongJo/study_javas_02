@@ -1,4 +1,5 @@
 // refer : https://www.w3schools.com/java/java_type_casting.asp
+package co_templates;
 import java.util.Scanner;
 
 public class TypeCastIntegers {

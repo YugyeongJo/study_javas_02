@@ -1,4 +1,5 @@
 // refer : https://www.w3schools.com/java/java_arraylist.asp
+package co_templates;
 import java.util.ArrayList;
 
 public class DataTypeArrayLists {

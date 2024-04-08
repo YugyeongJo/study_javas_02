@@ -1,3 +1,4 @@
+package co_templates;
 import java.util.ArrayList;
 import java.util.HashMap;
 

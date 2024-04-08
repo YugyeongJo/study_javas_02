@@ -1,5 +1,5 @@
 // refer : https://www.w3schools.com/java/java_for_loop.asp
-
+package co_templates;
 import java.util.ArrayList;
 
 public class LoopsFors {

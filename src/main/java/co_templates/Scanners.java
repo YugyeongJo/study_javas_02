@@ -1,4 +1,5 @@
 // 외부 입력을 받을 수 있는 것 = Scanners
+package co_templates;
 import java.util.Scanner;
 
 public class Scanners {

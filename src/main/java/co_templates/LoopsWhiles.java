@@ -1,5 +1,5 @@
 // refer : https://www.w3schools.com/java/java_while_loop.asp
-
+package co_templates;
 public class LoopsWhiles {
     public static void main(String[] args){
 

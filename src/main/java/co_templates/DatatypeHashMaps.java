@@ -1,4 +1,5 @@
 // refer : https://www.w3schools.com/java/java_hashmap.asp
+package co_templates;
 import java.util.HashMap;
 
 public class DatatypeHashMaps {

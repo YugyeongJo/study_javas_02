@@ -1,3 +1,4 @@
+package co_templates;
 public class Booleans {
     public static void main(String[] args) {
         boolean boolFirst = true;

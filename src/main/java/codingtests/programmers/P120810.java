@@ -11,7 +11,7 @@
 // num1	num2	result
 // 3	2	1 
 // 10	5	0
-package co_templates;
+package codingtests.programmers;
 class P120810 {
     public int solution(int num1, int num2) {
         int answer = 0;

@@ -29,16 +29,19 @@ public class TryCatchsSubs {
         }
         return resultNumber;
     }
-    public void returnException(int firstNumber) {
+    public int returnException(int firstNumber) {
         ArrayList<Integer> myNumbers = new ArrayList<Integer>();
         myNumbers.add(1);
         myNumbers.add(2);
         myNumbers.add(3);
+        int result = 0;
         try {
             System.out.println(myNumbers.get(10));
+            result = myNumbers.get(10);
         } catch (Exception e) {
-            System.out.println("catch (Exception e)");
+            System.out.println("catch (Exception e): "+e.getMessage());
+            result = myNumbers.get(0);
         }
-        return ;
+        return result ;
     }
 }

@@ -37,7 +37,7 @@ public class OopCasts {
         // casting 해주기 위해 question 앞에 ()로 datatype 선언해줌. 
         String strFirst = (String)question.get("문제");
         int intSecond = (int)question.get("사용자답");
-        ArrayList<Object> arrayList = (ArrayList<Object>)question.get("Cars")
+        ArrayList<Object> arrayList = (ArrayList<Object>)question.get("Cars");
         System.out.println("Hello Main !");
     }
 }

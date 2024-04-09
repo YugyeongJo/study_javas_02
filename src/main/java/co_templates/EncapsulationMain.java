@@ -16,7 +16,7 @@ public class EncapsulationMain {
         // set 호출
         animal.setResult(6);
         System.out.println("animal.getResult() : "+animal.getResult());
-        System.out.println("++ animal.getResult : "+ (++animal.result));
+        // System.out.println("++ animal.getResult : "+ (++animal.result));
         return ;
     } 
 }

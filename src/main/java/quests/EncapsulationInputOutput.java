@@ -24,10 +24,7 @@ public class EncapsulationInputOutput {
     }
 
     // 출력하기 
-    public void output(int result_Addition, int result_Subtraction, int result_Multiplication, int result_Division, int result_Remainder){   
-        System.out.println("Addition result : "+ result_Addition);
-        System.out.println("Subtraction result : "+ result_Subtraction);
-        System.out.println("Multiplication result : "+ result_Multiplication);
+    public void output(int result_Division, int result_Remainder){   
         System.out.println("Division result : "+ result_Division);
         System.out.println("Remainder result : "+ result_Remainder);
     }

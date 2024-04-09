@@ -49,6 +49,8 @@
 |19|[PolymorphismAnimal](./src/main/java/co_templates/PolymorphismAnimal.java)|polymorphism 다형성|polymorphism 다형성||
 |20|[PolymorphismDog](./src/main/java/co_templates/PolymorphismDog.java)|polymorphism 다형성|polymorphism 다형성||
 |21|[PolymorphismPig](./src/main/java/co_templates/PolymorphismPig.java)|polymorphism 다형성|polymorphism 다형성||
+|22|[EncapsulationMain](./src/main/java/co_templates/EncapsulationMain.java)|Encapsulation 캡슐화|Encapsulation 캡슐화||
+|23|[EncapsulationAnimal](./src/main/java/co_templates/EncapsulationAnimal.java)|Encapsulation 캡슐화|Encapsulation 캡슐화||
 
 </details>
 

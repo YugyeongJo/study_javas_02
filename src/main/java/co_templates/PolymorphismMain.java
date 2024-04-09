@@ -11,5 +11,6 @@ public class PolymorphismMain {
 
         PolymorphismDog dog = new PolymorphismDog();
         dog.animalSound();
+        dog.speed(3);
     } 
 }

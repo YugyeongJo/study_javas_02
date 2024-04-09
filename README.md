@@ -1,4 +1,8 @@
 ## java_mysql
+
+<details>
+<summary>Java 기본 세팅</summary>
+
 #### Main package
 - java:17
 
@@ -9,6 +13,10 @@
 ```
 #### samples
 - [src/Sameple.java](./src/Sample.java)
+
+</details>
+
+<br/>
 
 #### JAVA 개념 정리
 - [JAVA 개념 정리](https://github.com/YugyeongJo/study_javas/wiki)

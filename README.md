@@ -29,22 +29,22 @@
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|[Main](./main/java/co_templates/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
-|2|[DataTypes](./main/java/co_templates/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
-|3|[Scanners](./main/java/co_templates/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
-|4|[Booleans](./main/java/co_templates/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
-|5|[Ifs](./main/java/co_templates/Ifs.java)|if 구문|if 구문||
-|6|[LoopsFors](./main/java/co_templates/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
-|7|[LoopsWhiles](./main/java/co_templates/LoopsWhiles.java)|while & break 구문|while & break 구문||
-|8|[DataTypeStrings](./main/java/co_templates/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
-|9|[DataTypeArrayLists](./main/java/co_templates/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove(), set(), clear()|arraylist 형태(List)로 data 저장, 출력, 삭제, 교체|순서 포함 O|
-|10|[DatatypeHashMaps](./main/java/co_templates/DatatypeHashMaps.java)|hashmap <br> put(), get(), size(), remove(), clear(), keyset(), values()|hashmap 형태(Dictionary)로 data 저장, 출력, 삭제, key값만 출력, value값만 출력|순서 포함 X, 랜덤으로 출력|
-|11|[TypeCastIntegers](./main/java/co_templates/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
-|12|[OopCasts](./main/java/co_templates/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
-|14|[MethodsMain](./main/java/co_templates/MethodsMain.java)|function 기본 구조|function 기본 구조||
-|15|[MethodsSubs](./main/java/co_templates/MethodsSubs.java)|Main에서 function 호출|Main에서 function 호출||
-|16|[TryCatchsMain](./main/java/co_templates/TryCatchsMain.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
-|17|[TryCatchsSubs](./main/java/co_templates/TryCatchsSubs.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
+|1|[Main](./src/main/java/co_templates/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
+|2|[DataTypes](./src/main/java/co_templates/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
+|3|[Scanners](./src/main/java/co_templates/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
+|4|[Booleans](./src/main/java/co_templates/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
+|5|[Ifs](./src/main/java/co_templates/Ifs.java)|if 구문|if 구문||
+|6|[LoopsFors](./src/main/java/co_templates/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
+|7|[LoopsWhiles](./src/main/java/co_templates/LoopsWhiles.java)|while & break 구문|while & break 구문||
+|8|[DataTypeStrings](./src/main/java/co_templates/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
+|9|[DataTypeArrayLists](./src/main/java/co_templates/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove(), set(), clear()|arraylist 형태(List)로 data 저장, 출력, 삭제, 교체|순서 포함 O|
+|10|[DatatypeHashMaps](./src/main/java/co_templates/DatatypeHashMaps.java)|hashmap <br> put(), get(), size(), remove(), clear(), keyset(), values()|hashmap 형태(Dictionary)로 data 저장, 출력, 삭제, key값만 출력, value값만 출력|순서 포함 X, 랜덤으로 출력|
+|11|[TypeCastIntegers](./src/main/java/co_templates/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
+|12|[OopCasts](./src/main/java/co_templates/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
+|14|[MethodsMain](./src/main/java/co_templates/MethodsMain.java)|function 기본 구조|function 기본 구조||
+|15|[MethodsSubs](./src/main/java/co_templates/MethodsSubs.java)|Main에서 function 호출|Main에서 function 호출||
+|16|[TryCatchsMain](./src/main/java/co_templates/TryCatchsMain.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
+|17|[TryCatchsSubs](./src/main/java/co_templates/TryCatchsSubs.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
 |18|||||
 
 </details>
@@ -54,11 +54,15 @@
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|[Additions](./src/quests/Additions.java)|Scanner|Scanner 사용하여 입력받은 값 합산하기||
-|2|[ForsIfs](./src/quests/ForsIfs.java)|For 구문 <br> 지수연산|입력값 지수연산하여 4의 배수인지 확인하기||
-|3|[WhilesIfsBreak](./src/quests/WhilesIfsBreak.java)|While & break 구문|점수에 따른 학점 계산하기||
-|4|[pollsWithoutDB](./src/quests/pollsWithoutDB.java)|ArrayList(add, get) <br> for-loop문 <br> for-each문|영화 선호도 설문조사하기||
-|5|[problemsWithoutDB](./src/quests/problemsWithoutDB.java)|ArrayList(add, get) <br> HashMap(put)|문제 출제 후 답항 입력받기||
+|1|[Additions](./src/main/java/quests/Additions.java)|Scanner|Scanner 사용하여 입력받은 값 합산하기||
+|2|[ForsIfs](./src/main/java/quests/ForsIfs.java)|For 구문 <br> 지수연산|입력값 지수연산하여 4의 배수인지 확인하기||
+|3|[WhilesIfsBreak](./src/main/java/quests/WhilesIfsBreak.java)|While & break 구문|점수에 따른 학점 계산하기||
+|4|[pollsWithoutDB](./src/main/java/quests/pollsWithoutDB.java)|ArrayList(add, get) <br> for-loop문 <br> for-each문|영화 선호도 설문조사하기||
+|5|[problemsWithoutDB](./src/main/java/quests/problemsWithoutDB.java)|ArrayList(add, get) <br> HashMap(put)|문제 출제 후 답항 입력받기||
+|6|[AdditionsMain](./src/main/java/quests/AdditionsMain.java)<br>[AdditionsSub](./src/main/java/quests/AdditionsSub.java)|Scanner, function|입력값 합산 function으로 호출하기||
+|7|[ArithmeticsMain](./src/main/java/quests/ArithmeticsMain.java)<br>[AdditionsSub](./src/main/java/quests/AdditionsSub.java)<br>[ArithmeticsInputOutput](./src/main/java/quests/ArithmeticsInputOutput.java)|try-catch, fucntion|try-catch문 활용한 사칙연산 function 호출||
+|9|||||
+|10|||||
 
 </details>
 

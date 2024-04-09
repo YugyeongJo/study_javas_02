@@ -21,18 +21,23 @@
 
 |구분|파일명|적용내용|파일내용|비고|
 |--|--|--|--|--|
-|1|[Main](./src/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
-|2|[DataTypes](./src/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
-|3|[Scanners](./src/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
-|4|[Booleans](./src/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
-|5|[Ifs](./src/Ifs.java)|if 구문|if 구문||
-|6|[LoopsFors](./src/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
-|7|[LoopsWhiles](./src/LoopsWhiles.java)|while & break 구문|while & break 구문||
-|8|[DataTypeStrings](./src/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
-|9|[DataTypeArrayLists](./src/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove(), set(), clear()|arraylist 형태(List)로 data 저장, 출력, 삭제, 교체|순서 포함 O|
-|10|[DatatypeHashMaps](./src/DatatypeHashMaps.java)|hashmap <br> put(), get(), size(), remove(), clear(), keyset(), values()|hashmap 형태(Dictionary)로 data 저장, 출력, 삭제, key값만 출력, value값만 출력|순서 포함 X, 랜덤으로 출력|
-|11|[TypeCastIntegers](./src/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
-|12|[OopCasts](./src/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
+|1|[Main](./main/java/co_templates/Main.java)|기본 template|기본 template <br> print()|파일명과 class명 일치 필수 <br> System.out.println()|
+|2|[DataTypes](./main/java/co_templates/DataTypes.java)|datatype(int, bool, string, float)|기본적인 datatype|변수 선언 시 datatype 지정 필수|
+|3|[Scanners](./main/java/co_templates/Scanners.java)|scanner|scanner 활용하여 외부 입력값 받기||
+|4|[Booleans](./main/java/co_templates/Booleans.java)|datatype(boolean)|논리자료형 datatype <br> && / ! |&& : and <br> ! : not 의미|
+|5|[Ifs](./main/java/co_templates/Ifs.java)|if 구문|if 구문||
+|6|[LoopsFors](./main/java/co_templates/LoopsFors.java)|for 구문|for 구문 <br> 1) for-loop <br> 2) for-each|for-loop : range 범위를 가지고 for문 적용 <br> for-each : list 자체를 넣어서 for문 적용|
+|7|[LoopsWhiles](./main/java/co_templates/LoopsWhiles.java)|while & break 구문|while & break 구문||
+|8|[DataTypeStrings](./main/java/co_templates/DataTypeStrings.java)|datatype(string)|문자형 datatype <br> length() / concat() / replaceAll()|length() : 길이 확인 <br> concat() : 결합 <br> 대체|
+|9|[DataTypeArrayLists](./main/java/co_templates/DataTypeArrayLists.java)|arraylist <br> add(), get(), size(), remove(), set(), clear()|arraylist 형태(List)로 data 저장, 출력, 삭제, 교체|순서 포함 O|
+|10|[DatatypeHashMaps](./main/java/co_templates/DatatypeHashMaps.java)|hashmap <br> put(), get(), size(), remove(), clear(), keyset(), values()|hashmap 형태(Dictionary)로 data 저장, 출력, 삭제, key값만 출력, value값만 출력|순서 포함 X, 랜덤으로 출력|
+|11|[TypeCastIntegers](./main/java/co_templates/TypeCastIntegers.java)|Integer.parseInt()|string타입의 숫자를 int타입으로 변환||
+|12|[OopCasts](./main/java/co_templates/OopCasts.java)|casting datatype|object를 활용하여 data의 다양한 객체타입 지정|data 활용시 casting 필요|
+|14|[MethodsMain](./main/java/co_templates/MethodsMain.java)|function 기본 구조|function 기본 구조||
+|15|[MethodsSubs](./main/java/co_templates/MethodsSubs.java)|Main에서 function 호출|Main에서 function 호출||
+|16|[TryCatchsMain](./main/java/co_templates/TryCatchsMain.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
+|17|[TryCatchsSubs](./main/java/co_templates/TryCatchsSubs.java)|Try Catch 구문|Try Catch 구문|Catch로 빠졌을 경우 (Exception e) 활용|
+|18|||||
 
 </details>
 

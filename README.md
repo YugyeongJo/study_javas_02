@@ -66,8 +66,9 @@
 |5|[problemsWithoutDB](./src/main/java/quests/problemsWithoutDB.java)|ArrayList(add, get) <br> HashMap(put)|문제 출제 후 답항 입력받기||
 |6|[AdditionsMain](./src/main/java/quests/AdditionsMain.java)<br>[AdditionsSub](./src/main/java/quests/AdditionsSub.java)|Scanner, function|입력값 합산 function으로 호출하기||
 |7|[ArithmeticsMain](./src/main/java/quests/ArithmeticsMain.java)<br>[AdditionsSub](./src/main/java/quests/AdditionsSub.java)<br>[ArithmeticsInputOutput](./src/main/java/quests/ArithmeticsInputOutput.java)|try-catch, fucntion|try-catch문 활용한 사칙연산 function 호출||
-|9|||||
+|9|[EncapsulationMain](./src/main/java/quests/EncapsulationMain.java)<br>[EncapsulationSub](./src/main/java/quests/EncapsulationSub.java)<br>[EncapsulationInputOutput](./src/main/java/quests/EncapsulationInputOutput.java)|Encapsulation 활용하여 사칙연산 function 호출|||
 |10|||||
+|11|||||
 
 </details>
 

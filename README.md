@@ -51,6 +51,8 @@
 |21|[PolymorphismPig](./src/main/java/co_templates/PolymorphismPig.java)|polymorphism 다형성|polymorphism 다형성||
 |22|[EncapsulationMain](./src/main/java/co_templates/EncapsulationMain.java)|Encapsulation 캡슐화|Encapsulation 캡슐화||
 |23|[EncapsulationAnimal](./src/main/java/co_templates/EncapsulationAnimal.java)|Encapsulation 캡슐화|Encapsulation 캡슐화||
+|23|[ConstructorMain](./src/main/java/co_templates/ConstructorMain.java)|Constructor 생성자|Constructor 생성자||
+|23|[ConstructorAnimal](./src/main/java/co_templates/ConstructorAnimal.java)|Constructor 생성자|Constructor 생성자||
 
 </details>
 

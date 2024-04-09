@@ -47,7 +47,7 @@ public class EncapsulationSub {
 
             setResult_Division(intFirst/intSecond) ; 
         } catch (Exception e) {
-            System.out.println("catch (Exception e) : "+e.getMessage());
+            System.out.println("실행시킬 수 없습니다.");
         }
         return result_Division;
     }
@@ -63,7 +63,7 @@ public class EncapsulationSub {
 
             setResult_Remainder(intFirst % intSecond) ; 
         } catch (Exception e) {
-            System.out.println("catch (Exception e) : "+e.getMessage());
+            System.out.println("실행시킬 수 없습니다.");
         }
         return result_Remainder;
     }

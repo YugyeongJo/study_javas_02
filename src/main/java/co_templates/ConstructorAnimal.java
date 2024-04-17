@@ -16,4 +16,9 @@ public class ConstructorAnimal{
         System.out.println(secondNum);
     }
 
+    public void animalSound() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'animalSound'");
+    }
+
 }
